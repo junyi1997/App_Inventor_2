@@ -1,4 +1,4 @@
-# App_Inventor_2_by_juniy1997
+# App_Inventor_2_課程紀錄_by_juniy1997
 
 
 #請各位先去部落格詳讀內容之後，再來這裡拿取程式與圖檔（圖檔皆來自於Google圖片）
