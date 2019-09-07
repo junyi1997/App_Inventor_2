@@ -1,7 +1,10 @@
 # App_Inventor_2_by_juniy1997
 
+
 請各位先去部落格詳讀內容之後，再來這裡拿取程式與圖檔（圖檔皆來自於Google圖片）
 副檔名.aia為AI2前後台程式碼；副檔名.apk為AI2打包完之後的手機執行檔
+
+
 HW01：
     HW1_自我介紹_基本按鈕動作 部落格說明網址：https://johnniewu.blogspot.com/2019/02/hw1-app-button-app-inventor-2-botton_25.html
     
